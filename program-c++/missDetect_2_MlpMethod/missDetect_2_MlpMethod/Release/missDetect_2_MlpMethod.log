@@ -1,0 +1,131 @@
+﻿生成启动时间为 2016/2/4 16:25:12。
+     1>项目“D:\丢帧检测\missDetect_2_MlpMethod\missDetect_2_MlpMethod\missDetect_2_MlpMethod.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt missDetect_2_MlpMethod.cpp
+         missDetect_2_MlpMethod.cpp
+     1>missDetect_2_MlpMethod.cpp(92): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>missDetect_2_MlpMethod.cpp(153): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>missDetect_2_MlpMethod.cpp(154): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>missDetect_2_MlpMethod.cpp(181): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>missDetect_2_MlpMethod.cpp(257): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>missDetect_2_MlpMethod.cpp(262): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>missDetect_2_MlpMethod.cpp(264): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>missDetect_2_MlpMethod.cpp(265): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>missDetect_2_MlpMethod.cpp(287): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>missDetect_2_MlpMethod.cpp(313): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>missDetect_2_MlpMethod.cpp(385): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(386): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(387): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(388): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(391): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(392): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(393): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(394): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(406): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(407): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(408): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(409): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(410): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(411): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(412): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(415): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(502): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>missDetect_2_MlpMethod.cpp(521): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(522): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(523): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(524): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(527): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(528): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(529): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(530): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(541): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(542): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(543): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(544): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(545): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(546): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(547): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(550): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(635): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>missDetect_2_MlpMethod.cpp(655): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(656): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(657): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(658): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(661): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(662): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(663): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(664): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(682): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(683): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(684): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(685): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(686): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(687): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(688): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(691): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(784): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>missDetect_2_MlpMethod.cpp(803): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(804): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(805): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(806): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(809): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(810): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(811): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(812): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(831): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(832): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(833): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(834): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(835): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(836): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(837): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(840): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(938): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>missDetect_2_MlpMethod.cpp(957): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(958): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(959): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(960): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(963): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(964): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(965): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(966): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(995): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(996): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(997): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(998): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(999): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(1000): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(1001): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(1004): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(1103): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>missDetect_2_MlpMethod.cpp(1122): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(1123): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(1124): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(1125): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(1128): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(1129): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(1130): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(1131): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(1150): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(1151): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(1152): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(1153): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(1154): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(1155): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(1156): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(1159): warning C4305: “=”: 从“double”到“float”截断
+     1>missDetect_2_MlpMethod.cpp(1258): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>missDetect_2_MlpMethod.cpp(241): warning C4101: “filter”: 未引用的局部变量
+     1>missDetect_2_MlpMethod.cpp(243): warning C4101: “fLength”: 未引用的局部变量
+     1>missDetect_2_MlpMethod.cpp(242): warning C4101: “beta”: 未引用的局部变量
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\丢帧检测\missDetect_2_MlpMethod\Release\missDetect_2_MlpMethod.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Program Files (x86)\Visual Leak Detector\lib\Win32" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\丢帧检测\missDetect_2_MlpMethod\Release\missDetect_2_MlpMethod.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\丢帧检测\missDetect_2_MlpMethod\Release\missDetect_2_MlpMethod.lib" /MACHINE:X86 /SAFESEH Release\missDetect_2_MlpMethod.obj
+         正在生成代码
+     1>d:\丢帧检测\missdetect_2_mlpmethod\missdetect_2_mlpmethod\missdetect_2_mlpmethod.cpp(1277): warning C4715: “leapDetect”: 不是所有的控件路径都返回值
+         已完成代码的生成
+         missDetect_2_MlpMethod.vcxproj -> D:\丢帧检测\missDetect_2_MlpMethod\Release\missDetect_2_MlpMethod.exe
+     1>已完成生成项目“D:\丢帧检测\missDetect_2_MlpMethod\missDetect_2_MlpMethod\missDetect_2_MlpMethod.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.44

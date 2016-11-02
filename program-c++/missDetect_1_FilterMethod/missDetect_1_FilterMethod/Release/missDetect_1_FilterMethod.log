@@ -1,0 +1,25 @@
+﻿生成启动时间为 2016/2/4 16:23:04。
+     1>项目“D:\丢帧检测\missDetect_1_FilterMethod\missDetect_1_FilterMethod\missDetect_1_FilterMethod.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt missDetect_1_FilterMethod_141225.cpp
+         missDetect_1_FilterMethod_141225.cpp
+     1>missDetect_1_FilterMethod_141225.cpp(127): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>missDetect_1_FilterMethod_141225.cpp(129): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>missDetect_1_FilterMethod_141225.cpp(133): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>missDetect_1_FilterMethod_141225.cpp(134): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>missDetect_1_FilterMethod_141225.cpp(146): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>missDetect_1_FilterMethod_141225.cpp(147): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>missDetect_1_FilterMethod_141225.cpp(149): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>missDetect_1_FilterMethod_141225.cpp(172): warning C4244: “*=”: 从“double”转换到“float”，可能丢失数据
+     1>missDetect_1_FilterMethod_141225.cpp(186): warning C4244: “*=”: 从“double”转换到“float”，可能丢失数据
+     1>missDetect_1_FilterMethod_141225.cpp(250): warning C4305: “参数”: 从“double”到“float”截断
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\丢帧检测\missDetect_1_FilterMethod\Release\missDetect_1_FilterMethod.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Program Files (x86)\Visual Leak Detector\lib\Win32" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\丢帧检测\missDetect_1_FilterMethod\Release\missDetect_1_FilterMethod.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\丢帧检测\missDetect_1_FilterMethod\Release\missDetect_1_FilterMethod.lib" /MACHINE:X86 /SAFESEH Release\missDetect_1_FilterMethod_141225.obj
+         正在生成代码
+         已完成代码的生成
+         missDetect_1_FilterMethod.vcxproj -> D:\丢帧检测\missDetect_1_FilterMethod\Release\missDetect_1_FilterMethod.exe
+     1>已完成生成项目“D:\丢帧检测\missDetect_1_FilterMethod\missDetect_1_FilterMethod\missDetect_1_FilterMethod.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.55
